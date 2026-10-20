@@ -27,7 +27,7 @@ Voici les régles du jeu Bleu Fragile.
         12. [Vaisseaux de transport et routes commerciales](#orgba14fdf)
 2.  [Règles](#orgd6e0265)
     1.  [Tour de jeu](#orgdcbf4d4)
-    2.  [Objectifs des joueurs <code>[0/3]</code>](#org91d813b)
+    2.  [Objectifs des joueurs](#org91d813b)
         1.  [Listes des différents objectifs](#orgc99fd76)
         2.  [Répartition des objectifs en début de partie](#org0521d45)
     3.  [Critère de clôture de la partie](#org5f69a3d)
@@ -40,12 +40,12 @@ Voici les régles du jeu Bleu Fragile.
     5.  [Ressources](#org4a276cd)
         1.  [Liste des ressources](#orga2ee4a2)
         2.  [Source de chacune des ressources](#orgf184de3)
-    6.  [Corps célestes <code>[0/2]</code>](#org2cb89a3)
+    6.  [Corps célestes](#org2cb89a3)
         1.  [Fonctionnement d'un corps céleste](#orga2e35a2)
         2.  [Acquisition des cases](#org807b846)
         3.  [Corps du système solaire](#orgd56ca85)
         4.  [Distances entre corps du système solaire](#org4c82acd)
-    7.  [Bâtiments <code>[0/5]</code>](#orge60e719)
+    7.  [Bâtiments](#orge60e719)
         1.  [La construction d'un bâtiment](#org4ab1d18)
         2.  [La destruction d'un bâtiment](#org52f5de5)
         3.  [Les différents bâtiments](#orgf299355)
@@ -343,12 +343,8 @@ Durant le tour de jeu, on résout les actions dans l'ordre suivant:
 
 <a id="org91d813b"></a>
 
-## Objectifs des joueurs <code>[0/3]</code>
-
--   De deux types: instantanés (I) (validés une fois suffit) ou bien de fin de partie (F) (la validité est vérifiée en fin de partie)
--   Au moins un de fin de partie par joueur, au pire donné au hasard
--   En cas d'égalité sur le nombre d'objectifs, celui avec le plus de fin de partie est gagnant ?
-
+## Objectifs des joueurs
+[TODO](/ideas/obj-joueurs)
 
 <a id="orgc99fd76"></a>
 
