@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Bleu Fragile
-permalink: /ideas/obj-joueurs
+permalink: /ideas/obj-joueurs/
 description: Page du site Bleu Fragile
 ---
 -   De deux types: instantanés (I) (validés une fois suffit) ou bien de fin de partie (F) (la validité est vérifiée en fin de partie)
