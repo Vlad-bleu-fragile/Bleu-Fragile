@@ -856,7 +856,7 @@ Le niveau de protection agit de manière complémentaire en réduisant l'exposit
         
         Il est possible d'y vendre les ressources suivantes:
         
-        -   Nourriture (prix de repos = $10 \times \left(1+\frac{Population}{1+2\times Agriculture}\right)$)
+        -   Nourriture (prix de repos = \(10 \times \left(1+\frac{Population}{1+2\times Agriculture}\right)\))
         -   Métaux nobles (prix de repos = $30 \times \left(1+\frac{Population}{1+2times Industrie}\right)$)
         -   Métaux légers (prix de repos = $10 \times \left(1+\frac{Population}{1+3times Industrie}\right)$
         -   Composants électroniques (prix de repos = $40 \times \left(1+\frac{Population}{1 + 4 \times Industrie}\right)$)
