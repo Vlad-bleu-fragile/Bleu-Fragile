@@ -50,11 +50,11 @@
 #corps
 {
     position: absolute;
-    left: 23%;
-    top: 200px;
-    right: 23%;
+    left: 13%;
+    top: 100px;
+    right: 13%;
     padding: 20px;
-    min-width:39%;
+    min-width:59%;
     width: cover;
     height: cover%;
     min-height: 42%;
