@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+    <title>{{ page.title }}</title>
+    <meta name="description" content="Site du jeu Bleu Fragile" />
+ <meta name="keywords" content="TODO"/>
+ <meta charset="utf-8" />
+ <meta name="author" content="Vlad">
+ <link rel="stylesheet" href="/style.css" />
+ <meta name="viewport" content="width=device-width, initial-scale=1">
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+{% if page.description %}
+ <meta name="description" content="{{ page.description | escape }}">
+{% endif %}
+</head>
+
+<body>
+<div id="container">
+
+    <div id="menu">
+    <center>
+        Bleu Fragile
+    </center>
+</div>
+<div id="corps">
+{{ content }}
+</div>
+</div>
+</body>
+</html>
