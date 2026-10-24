@@ -344,7 +344,7 @@ Durant le tour de jeu, on résout les actions dans l'ordre suivant:
 <a id="org91d813b"></a>
 
 ## Objectifs des joueurs
-[TODO](/ideas/obj-joueurs)
+[TODO](/ideas-obj-players/)
 
 <a id="orgc99fd76"></a>
 
